@@ -70,12 +70,9 @@ powershell
 ```powershell
 openclaw onboard
 ```
-<img width="763" height="512" alt="image 1" src="https://github.com/user-attachments/assets/d5864446-6185-48e3-9ac4-f24434da637c" />
-
 **3.1 Select AI Provider**
 
-The system presented a list of available AI providers. For this implementation, **Google** was selected as the AI provider. <img width="326" height="235" alt="image 2" src="https://github.com/user-attachments/assets/c19a9a4d-0652-450e-8652-47f97b156a37" />
-
+The system presented a list of available AI providers. For this implementation, **Google** was selected as the AI provider. 
 
 **3.2 API Key Configuration**
 
@@ -108,9 +105,6 @@ The Discord integration required detailed configuration through the Discord Deve
 2. Click "New Application"
 3. Provide a name for the application
 4. Click "Create"
-
-<img width="354" height="281" alt="image 3" src="https://github.com/user-attachments/assets/144bf4a9-e814-4b1c-a842-d1a4b37709e6" />
-
 
 **4.2 Create Bot User**
 
