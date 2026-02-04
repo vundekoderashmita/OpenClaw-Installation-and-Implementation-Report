@@ -74,17 +74,14 @@ openclaw onboard
 
 **3.1 Select AI Provider**
 
-The system presented a list of available AI providers. For this implementation, **Google** was selected as the AI provider.
+The system presented a list of available AI providers. For this implementation, **Google** was selected as the AI provider. <img width="326" height="235" alt="image 2" src="https://github.com/user-attachments/assets/c19a9a4d-0652-450e-8652-47f97b156a37" />
+
 
 **3.2 API Key Configuration**
 
 An API key was required to authenticate with the Google Gemini service. The API key was obtained from **Google AI Studio** ([https://aistudio.google.com/](https://aistudio.google.com/)).
 
 To obtain the API key:
-
-<img width="326" height="235" alt="image 2" src="https://github.com/user-attachments/assets/c19a9a4d-0652-450e-8652-47f97b156a37" />
-
-
 1. Navigate to Google AI Studio
 2. Sign in with Google account
 3. Click on "Get API Key"
