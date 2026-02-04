@@ -46,7 +46,8 @@ powershell
 iwr -useb https://openclaw.ai/install.ps1 | iex
 ```
 
-![option to change commands according to os](image.png)
+<img width="885" height="264" alt="image" src="https://github.com/user-attachments/assets/d53d8eed-ebc4-4799-9eee-18528ade86cf" />
+
 
 option to change commands according to os
 
@@ -69,8 +70,7 @@ powershell
 ```powershell
 openclaw onboard
 ```
-
-![image.png](image%201.png)
+<img width="763" height="512" alt="image 1" src="https://github.com/user-attachments/assets/d5864446-6185-48e3-9ac4-f24434da637c" />
 
 **3.1 Select AI Provider**
 
@@ -82,7 +82,8 @@ An API key was required to authenticate with the Google Gemini service. The API 
 
 To obtain the API key:
 
-![image.png](image%202.png)
+<img width="326" height="235" alt="image 2" src="https://github.com/user-attachments/assets/c19a9a4d-0652-450e-8652-47f97b156a37" />
+
 
 1. Navigate to Google AI Studio
 2. Sign in with Google account
@@ -111,7 +112,8 @@ The Discord integration required detailed configuration through the Discord Deve
 3. Provide a name for the application
 4. Click "Create"
 
-![image.png](image%203.png)
+<img width="354" height="281" alt="image 3" src="https://github.com/user-attachments/assets/144bf4a9-e814-4b1c-a842-d1a4b37709e6" />
+
 
 **4.2 Create Bot User**
 
@@ -214,7 +216,8 @@ The bot demonstrated intelligent task clarification by asking for:
 2. Full folder path for accurate access
 3. Confirmation of proposed subfolder structure
 
-![{D49CE0EF-5F6E-416E-ADD4-54D87361D0CA}.png](D49CE0EF-5F6E-416E-ADD4-54D87361D0CA.png)
+<img width="694" height="337" alt="D49CE0EF-5F6E-416E-ADD4-54D87361D0CA" src="https://github.com/user-attachments/assets/8a099f6b-98af-4177-a7e7-898296e08d5b" />
+
 
 **User Requirements:**
 
@@ -229,7 +232,8 @@ The bot demonstrated intelligent task clarification by asking for:
 - **Image files:** eye.jpg, eye - Copy.jpg, tree.avif, view.jpg
 - **Video files:** sea.mp4, war.mp4, wierd.mp4
 
-![image.png](image%204.png)
+<img width="1907" height="1000" alt="image 4" src="https://github.com/user-attachments/assets/18e2b6dc-05e3-4a09-8b0a-f2913d546064" />
+
 
 **Bot's Execution Plan:**
 
@@ -247,7 +251,8 @@ The bot successfully:
 - Removed 2 duplicate files
 - Organized the folder from 12 items to 4 well-structured subfolders
 
-![image.png](image%205.png)
+<img width="1898" height="992" alt="image 5" src="https://github.com/user-attachments/assets/25f84421-1bb0-421d-8f6d-5dc036ca6bb8" />
+
 
 ## 4. Challenges Encountered and Solutions
 
